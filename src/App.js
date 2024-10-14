@@ -13,7 +13,7 @@ function App() {
   return (
     <Router>
       <div className="App">
-        <LoadScript googleMapsApiKey="AIzaSyBHIEi6b0KfP6wHyCFsDbj7e_CWws9-n-c">
+        <LoadScript googleMapsApiKey="google-api-key">
           <nav className="navbar">
             <ul>
               <img src={logo} alt="logo" className="logo" />
